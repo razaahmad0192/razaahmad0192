@@ -14,31 +14,31 @@ With years of experience in the field, I’ve developed a mindset that focuses o
 
 <h2>🧠 What I Do</h2>
 <ul>
-  <li>Perform in-depth penetration testing and security assessments on web applications.</li>
-  <li>Design and develop secure, scalable, and performance-driven web solutions.</li>
-  <li>Collaborate with developers and organizations to implement strong security practices.</li>
-  <li>Continuously learn and adapt to the latest trends in cybersecurity and software development.</li>
+  <li>Perform advanced web penetration testing and identify real-world security flaws.</li>
+  <li>Develop and maintain responsive, secure, and high-performance web applications.</li>
+  <li>Integrate security practices throughout the entire software development lifecycle.</li>
+  <li>Research and explore new vulnerabilities, frameworks, and modern coding standards.</li>
 </ul>
 
 <hr>
 
 <h2>🏆 Achievements</h2>
 <ul>
-  <li>Identified and responsibly disclosed multiple critical web vulnerabilities.</li>
-  <li>Received recognition and rewards from international platforms for ethical hacking contributions.</li>
-  <li>Developed secure web apps with strong authentication and real-time features.</li>
-  <li>Built a reputation for combining offensive and defensive cyber skills with professional development.</li>
+  <li>Recognized for responsible vulnerability disclosures and ethical hacking contributions.</li>
+  <li>Discovered critical bugs in live platforms and helped teams secure their systems.</li>
+  <li>Built real-time web applications with strong security implementations.</li>
+  <li>Proven ability to balance both offensive cybersecurity and professional software development.</li>
 </ul>
 
 <hr>
 
+
 <h2>🌱 Current Goals</h2>
 <ul>
-  <li>Contribute to open-source cybersecurity and web development projects.</li>
-  <li>Develop advanced web applications with integrated security architecture.</li>
-  <li>Mentor new developers and ethical hackers entering the industry.</li>
-  <li>Expand expertise in digital forensics and cloud security.</li>
-  
+  <li>Contribute to open-source security and development communities.</li>
+  <li>Build secure and scalable web solutions for modern digital environments.</li>
+  <li>Enhance automation in vulnerability analysis and secure coding workflows.</li>
+  <li>Continue growing as a cybersecurity professional and developer who values clean, safe, and efficient code.</li>
 </ul>
 
 <hr>
