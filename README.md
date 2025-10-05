@@ -6,8 +6,6 @@
 <h2>🚀 About Me</h2>
 <p>
 I'm <b>Ahmed Raza</b>, a <b> Penetration Tester</b> and <b>Web Developer</b> with a deep passion for Cybersecurity and Web Development.  
-I specialize in securing systems, identifying vulnerabilities, and developing web applications that are both <b>powerful</b> and <b>secure</b>.  
-With years of experience in the field, I’ve developed a mindset that focuses on <b>precision, integrity, and innovation</b>.
 </p>
 
 <hr>
@@ -16,18 +14,14 @@ With years of experience in the field, I’ve developed a mindset that focuses o
 <ul>
   <li>Perform advanced web penetration testing and identify real-world security flaws.</li>
   <li>Develop and maintain responsive, secure, and high-performance web applications.</li>
-  <li>Integrate security practices throughout the entire software development lifecycle.</li>
-  <li>Research and explore new vulnerabilities, frameworks, and modern coding standards.</li>
 </ul>
 
 <hr>
 
 <h2>🏆 Achievements</h2>
 <ul>
-  <li>Recognized for responsible vulnerability disclosures and ethical hacking contributions.</li>
   <li>Discovered critical bugs in live platforms and helped teams secure their systems.</li>
   <li>Built real-time web applications with strong security implementations.</li>
-  <li>Proven ability to balance both offensive cybersecurity and professional software development.</li>
 </ul>
 
 <hr>
@@ -37,7 +31,6 @@ With years of experience in the field, I’ve developed a mindset that focuses o
 <ul>
   <li>Contribute to open-source security and development communities.</li>
   <li>Build secure and scalable web solutions for modern digital environments.</li>
-  <li>Enhance automation in vulnerability analysis and secure coding workflows.</li>
   <li>Continue growing as a cybersecurity professional and developer who values clean, safe, and efficient code.</li>
 </ul>
 
